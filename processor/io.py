@@ -37,7 +37,7 @@ class IO():
             # load config file
             with open(p.config, 'r') as f:
                 # default_arg是字典的形式
-                default_arg = yaml.load(f)
+                default_arg = yaml.full_load(f)
 
             # update parser from config file
             # vars() 函数返回对象object的属性和属性值的字典对象
