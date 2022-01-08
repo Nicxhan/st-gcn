@@ -3,140 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="b1e2c53c-f3ce-4532-a180-854761437997" name="Default Changelist" comment="tgcn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/st_gcn/kinetics-skeleton/train.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/st_gcn/kinetics-skeleton/train.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feeder/tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/feeder/tools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/net/st_gcn.py" beforeDir="false" afterPath="$PROJECT_DIR$/net/st_gcn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processor/io.py" beforeDir="false" afterPath="$PROJECT_DIR$/processor/io.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/processor/recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/processor/recognition.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="14" column="83" lean-forward="true" selection-start-line="14" selection-start-column="83" selection-end-line="14" selection-end-column="83" />
-              <folding>
-                <element signature="e#22#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feeder/tools.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feeder/feeder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-              <folding>
-                <element signature="e#6#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processor/processor.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.conda/envs/torch0.4-caffe/lib/python3.6/site-packages/torchlight-1.0-py3.6.egg!/torchlight/io.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-              <folding>
-                <element signature="e#22#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/net/st_gcn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4293">
-              <caret line="165" column="34" selection-start-line="165" selection-start-column="34" selection-end-line="165" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/net/utils/tgcn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="999">
-              <caret line="38" column="29" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="29" />
-              <folding>
-                <element signature="e#51#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processor/recognition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3672">
-              <caret line="152" column="70" selection-start-line="152" selection-start-column="70" selection-end-line="152" selection-end-column="70" />
-              <folding>
-                <element signature="e#46#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/st_gcn/kinetics-skeleton/train.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/tools/kinetics_gendata.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/net/st_gcn.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/processor/recognition.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/feeder/tools.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/processor/processor.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/processor/io.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/processor/demo.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/config/st_gcn/kinetics-skeleton/test.yaml" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/net/utils/tgcn.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/torchlight/setup.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/net/utils/graph.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/processor/io.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/torchlight/setup.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/processor/processor.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/processor/demo.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/net/st_gcn.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/net/utils/tgcn.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/config/st_gcn/kinetics-skeleton/test.yaml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/feeder/tools.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/processor/recognition.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -169,6 +57,7 @@
     <option name="width" value="1851" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectId" id="23P8YqQ0VMMBBVacjxhcKGLyry9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -189,22 +78,14 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -260,6 +141,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -375,22 +257,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -409,6 +276,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
